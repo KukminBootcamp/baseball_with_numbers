@@ -1,5 +1,5 @@
 ---
-name: Trigger basic
+name: trigger basic
 on: 
   push:
     branches:
